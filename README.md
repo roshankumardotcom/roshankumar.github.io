@@ -1,6 +1,6 @@
 ## Portfolio
 
-Holding a Master's degree in Computer Application with strong programming and algorithmic expertise. Has been working with Mindstix since Aug 2017 as a back-end expert involved in the Analysis, Design, Development, Testing, CICD, and Maintenance of applications. Extensive experience in building and managing complex back-end frameworks and applications. JAVA has been the primary language and easily adopt new frameworks/technologies.
+A passionate Software Professional 🚀 having an experience in Analysis, Design, Development, Testing, and managing complex backend frameworks and applications.
 
 ---
 
